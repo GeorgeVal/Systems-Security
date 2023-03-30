@@ -1,4 +1,4 @@
-Georgios Valavanis AM: 2019030065
+Georgios Valavanis
 
 This is an implementation that reads packets from a user specified network interface or a user specified .pcap file. It reads packets in a loop checking whether a packet is IPv4 or IPv6 or none
 of them and calls the appropriate function to decode IPv4 or IPv6 packets. Then it checks if current packet is TCP or UDP and then proceeds to the extraction of information of the packet such
