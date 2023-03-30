@@ -1,4 +1,4 @@
-Georgios Valavanis 2019030065
+Georgios Valavanis 
 
 This is an implementation of an enhanced access control log.
 
