@@ -1,4 +1,4 @@
-Georgios Valavanis AM: 2019030065
+Georgios Valavanis 
 
 This an implementation of an adblocker.
 
