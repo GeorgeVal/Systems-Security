@@ -1,4 +1,4 @@
-Georgios Valavanis AM:2019030065
+Georgios Valavanis 
 
 First step: Find where RIP and big_boy_buffer, buffer are located.
 In order to find rip we need to find where buffer is located.
